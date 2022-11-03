@@ -1,6 +1,8 @@
 # NLW-copa-frontend
 Nessa aplicação é possível criar bolões para os jogos da Copa do Mundo.
 
+**Em Desenvolvimento
+
 Tecnologias utilizadas:
 
 - Next.js
